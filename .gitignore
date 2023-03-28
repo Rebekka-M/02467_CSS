@@ -131,3 +131,5 @@ dmypy.json
 # Data file
 .zip
 shared_data/
+CSS_Abstracts.xlsx
+CSS_Papers.xlsx
